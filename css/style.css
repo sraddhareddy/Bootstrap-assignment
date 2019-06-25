@@ -1,0 +1,29 @@
+#mycarousel {
+	margin-top: 0px;
+}
+#myCarousel .item { height: 1000px; }
+
+#slide1 {
+	background-image: url('img/naturep.jpg') top center no-repeat;
+}
+
+#slide2 {
+	background-image: url('img/templep.jpg') top center no-repeat;
+}
+
+#slide3 {
+	background-image: url("img/nightp.jpg") top center no-repeat;
+}
+footer{
+	background-color:black;
+}
+.col-sm-6 li{
+list-style: none;
+}
+.navbar-brand{
+	margin:0px;
+}
+.row{
+	width:100%;
+	margin-left:1px;
+}
